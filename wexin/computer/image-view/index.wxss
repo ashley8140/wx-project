@@ -1,0 +1,1 @@
+page{ background: #000; }.image-view{  }.image-view swiper{  height: 450px; }.slide-image{ width: 100%; height: 450px; }swiper-item{ display: flex; align-items: center; }.slide-warp{ width: 100%; }.computer-name{ color: #fff; margin-top: 20rpx; font-size: 28rpx; text-align: center; }
