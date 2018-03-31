@@ -1,0 +1,81 @@
+
+.hot-brand-block{
+    padding: 36rpx;
+}
+.hot-brand-title{
+    margin-left: 20rpx;
+    font-weight: bold;
+}
+
+.hot-brand-item{
+    width: 20%;
+    padding: 35rpx 0 0;
+}
+
+.hot-brand-logo{
+    display: block;
+    width: 84rpx;
+    height: 84rpx;
+    margin: 0 auto;
+}
+.hot-brand-name{
+    display: block;
+    text-align: center;
+    font-size:25rpx;
+    color: #666;
+    padding-top: 10rpx;
+}
+
+.letter-brand-name{
+    height: 64rpx;
+    line-height:64rpx;
+    background: #f5f5f5;
+    padding-left: 38rpx;
+}
+.brand-list-item{
+    padding-left: 29rpx;
+}
+.brand-list-logo{
+    width: 150rpx;
+    height: 150rpx;
+    display:block;
+    margin-top: 26rpx;
+}
+.brand-list-name{
+    margin-left: 26rpx;
+    width:510rpx;
+    height: 195rpx;
+    line-height: 195rpx;
+    border-top: 1px solid #f5f5f5;
+}
+
+.brand-name0{
+    border-top: 0;
+}
+.quick-select-container{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36rpx;
+    right: 6rpx;
+    top: 0;
+    height: 100%;
+}
+.quick-select-letter{
+    position: relative;
+    text-align: center;
+}
+
+.quick-letter{
+    height: 36rpx;
+    width: 36rpx;
+    border-radius: 100%;
+    line-height: 36rpx;
+    text-align: center;
+    font-size: 26rpx;
+    color:#666;
+}
+.selected{
+    background: #ccc;
+}

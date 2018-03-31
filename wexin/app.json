@@ -1,1 +1,53 @@
-{  "pages": [    "computer/index/index",    "computer/brand/index",    "computer/serial/index",    "computer/order/index",    "computer/config/index",    "computer/image-view/index",    "about/news/index",    "about/video/index",    "about/news/newsdetail/index",    "about/video/videodetail/index",    "about/test/index"  ],  "window": {    "backgroundTextStyle": "light",    "navigationBarBackgroundColor": "red",    "navigationBarTitleText": "Computer",    "navigationBarTextStyle": "white"  },  "tabBar": {    "color": "#cccccc",    "selectedColor": "#ea413c",    "backgroundColor": "#ffffff",    "borderStyle": "black",    "list": [      {        "pagePath": "computer/index/index",        "text": "Home",        "iconPath": "public/images/icon.png",        "selectedIconPath": "public/images/icon_pressed.png"      },      {        "pagePath": "about/news/index",        "text": "News",        "iconPath": "public/images/icon.png",        "selectedIconPath": "public/images/icon_pressed.png"      },      {        "pagePath": "about/video/index",        "text": "Videos",        "iconPath": "public/images/icon.png",        "selectedIconPath": "public/images/icon_pressed.png"      },      {        "pagePath": "about/test/index",        "text": "Test",        "iconPath": "public/images/icon.png",        "selectedIconPath": "public/images/icon_pressed.png"      }    ]  }}
+{
+  "pages": [
+    "pages/index/index",
+    "pages/brand/index",
+    "pages/serial/index",
+    "pages/order/index",
+    "pages/config/index",
+    "pages/image-view/index",
+    "about/news/index",
+    "about/video/index",
+    "about/news/newsdetail/index",
+    "about/video/videodetail/index",
+    "about/test/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "Computer",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#cccccc",
+    "selectedColor": "#ea413c",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "Home",
+        "iconPath": "public/images/icon/icon_home.png",
+        "selectedIconPath": "public/images/icon/icon_home_pressed.png"
+      },
+      {
+        "pagePath": "about/news/index",
+        "text": "News",
+        "iconPath": "public/images/icon/icon_home.png",
+        "selectedIconPath": "public/images/icon/icon_home_pressed.png"
+      },
+      {
+        "pagePath": "about/video/index",
+        "text": "Videos",
+        "iconPath": "public/images/icon/icon_video.png",
+        "selectedIconPath": "public/images/icon/icon_video_pressed.png"
+      },
+      {
+        "pagePath": "about/test/index",
+        "text": "Test",
+        "iconPath": "public/images/icon/icon_home.png",
+        "selectedIconPath": "public/images/icon/icon_home_pressed.png"
+      }
+    ]
+  }
+}

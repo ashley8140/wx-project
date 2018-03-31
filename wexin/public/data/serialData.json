@@ -1,0 +1,2514 @@
+{
+    "data": {
+        "brand": [{
+            "id": 1,
+            "title": "Apple",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/apple.jpg",
+            "brand": [{
+                "id": 11,
+                "title": "Apple XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }]
+            }, {
+                "id": 12,
+                "title": "Apple XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }]
+            }, {
+                "id": 13,
+                "title": "Apple XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }]
+            }]
+        }, {
+            "id": 2,
+            "title": "戴尔",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/de.jpg",
+            "brand": [{
+                "id": 21,
+                "title": "戴尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }]
+            }, {
+                "id": 22,
+                "title": "戴尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }]
+            }, {
+                "id": 23,
+                "title": "戴尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }]
+            }, {
+                "id": 24,
+                "title": "戴尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }]
+            }, {
+                "id": 25,
+                "title": "戴尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }]
+            }, {
+                "id": 26,
+                "title": "戴尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }]
+            }]
+        }, {
+            "id": 3,
+            "title": "惠普",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/hp.jpg",
+            "brand": [{
+                "id": 31,
+                "title": "惠普 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }]
+            }, {
+                "id": 32,
+                "title": "惠普 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }]
+            }]
+        }, {
+            "id": 4,
+            "title": "华硕",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/hs.jpg",
+            "brand": [{
+                "id": 41,
+                "title": "华硕 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }]
+            }, {
+                "id": 42,
+                "title": "华硕 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }]
+            }, {
+                "id": 43,
+                "title": "华硕 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }]
+            }, {
+                "id": 44,
+                "title": "华硕 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
+                }]
+            }]
+        }, {
+            "id": 5,
+            "title": "联想",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/lx.jpg",
+            "brand": [{
+                "id": 51,
+                "title": "联想 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }]
+            }, {
+                "id": 52,
+                "title": "联想 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }]
+            }, {
+                "id": 53,
+                "title": "联想 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }]
+            }, {
+                "id": 54,
+                "title": "联想 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }]
+            }, {
+                "id": 55,
+                "title": "联想 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }]
+            }]
+        }, {
+            "id": 6,
+            "title": "三星",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/sx.jpg",
+            "brand": [{
+                "id": 61,
+                "title": "三星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }]
+            }, {
+                "id": 62,
+                "title": "三星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
+                }]
+            }]
+        }, {
+            "id": 7,
+            "title": "thinkpad",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/thinkpad.jpg",
+            "brand": [{
+                "id": 71,
+                "title": "thinkpad XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }]
+            }, {
+                "id": 72,
+                "title": "thinkpad XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }]
+            }, {
+                "id": 73,
+                "title": "thinkpad XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }]
+            }, {
+                "id": 74,
+                "title": "thinkpad XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
+                }]
+            }]
+        }, {
+            "id": 8,
+            "title": "微软",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/wr.jpg",
+            "brand": [{
+                "id": 81,
+                "title": "微软 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }]
+            }, {
+                "id": 82,
+                "title": "微软 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }]
+            }, {
+                "id": 83,
+                "title": "微软 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }]
+            }, {
+                "id": 84,
+                "title": "微软 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }]
+            }, {
+                "id": 85,
+                "title": "微软 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }]
+            }, {
+                "id": 86,
+                "title": "微软 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }]
+            }]
+        }, {
+            "id": 9,
+            "title": "小米",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/xm.jpg",
+            "brand": [{
+                "id": 91,
+                "title": "小米 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }]
+            }, {
+                "id": 92,
+                "title": "小米 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }]
+            }, {
+                "id": 93,
+                "title": "小米 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }]
+            }, {
+                "id": 94,
+                "title": "小米 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }]
+            }, {
+                "id": 95,
+                "title": "小米 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }]
+            }, {
+                "id": 96,
+                "title": "小米 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
+                }]
+            }]
+        }, {
+            "id": 10,
+            "title": "神舟",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/sz.jpg",
+            "brand": [{
+                "id": 101,
+                "title": "神舟 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }]
+            }, {
+                "id": 102,
+                "title": "神舟 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }]
+            }]
+        }, {
+            "id": 11,
+            "title": "炫龙",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/xl.jpg",
+            "brand": [{
+                "id": 111,
+                "title": "炫龙 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }]
+            }, {
+                "id": 112,
+                "title": "炫龙 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }]
+            }, {
+                "id": 113,
+                "title": "炫龙 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }]
+            }, {
+                "id": 114,
+                "title": "炫龙 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }]
+            }, {
+                "id": 115,
+                "title": "炫龙 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
+                }]
+            }]
+        }, {
+            "id": 12,
+            "title": "麦本本",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/mbb.jpg",
+            "brand": [{
+                "id": 121,
+                "title": "麦本本 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }]
+            }, {
+                "id": 122,
+                "title": "麦本本 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }]
+            }, {
+                "id": 123,
+                "title": "麦本本 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }]
+            }, {
+                "id": 124,
+                "title": "麦本本 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }]
+            }, {
+                "id": 125,
+                "title": "麦本本 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
+                }]
+            }]
+        }, {
+            "id": 13,
+            "title": "雷神",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/ls.jpg",
+            "brand": [{
+                "id": 131,
+                "title": "雷神 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }]
+            }, {
+                "id": 132,
+                "title": "雷神 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }]
+            }, {
+                "id": 133,
+                "title": "雷神 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }]
+            }, {
+                "id": 134,
+                "title": "雷神 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }]
+            }]
+        }, {
+            "id": 14,
+            "title": "机械师",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/jxs.jpg",
+            "brand": [{
+                "id": 141,
+                "title": "机械师 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }]
+            }, {
+                "id": 142,
+                "title": "机械师 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }]
+            }]
+        }, {
+            "id": 15,
+            "title": "微星",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/wx.jpg",
+            "brand": [{
+                "id": 151,
+                "title": "微星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }]
+            }, {
+                "id": 152,
+                "title": "微星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }]
+            }, {
+                "id": 153,
+                "title": "微星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }]
+            }, {
+                "id": 154,
+                "title": "微星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }]
+            }, {
+                "id": 155,
+                "title": "微星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }]
+            }, {
+                "id": 156,
+                "title": "微星 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }]
+            }]
+        }, {
+            "id": 16,
+            "title": "外星人",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/wxr.jpg",
+            "brand": [{
+                "id": 161,
+                "title": "外星人 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }]
+            }, {
+                "id": 162,
+                "title": "外星人 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }]
+            }, {
+                "id": 163,
+                "title": "外星人 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }]
+            }, {
+                "id": 164,
+                "title": "外星人 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }]
+            }, {
+                "id": 165,
+                "title": "外星人 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }]
+            }, {
+                "id": 166,
+                "title": "外星人 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }]
+            }]
+        }, {
+            "id": 17,
+            "title": "火影",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/hy.jpg",
+            "brand": [{
+                "id": 171,
+                "title": "火影 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }]
+            }, {
+                "id": 172,
+                "title": "火影 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }]
+            }, {
+                "id": 173,
+                "title": "火影 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }]
+            }, {
+                "id": 174,
+                "title": "火影 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }]
+            }, {
+                "id": 175,
+                "title": "火影 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }]
+            }, {
+                "id": 176,
+                "title": "火影 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }]
+            }]
+        }, {
+            "id": 18,
+            "title": "宏基",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/hj.jpg",
+            "brand": [{
+                "id": 181,
+                "title": "宏基 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }]
+            }, {
+                "id": 182,
+                "title": "宏基 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }]
+            }]
+        }, {
+            "id": 19,
+            "title": "机械革命",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/jxgm.jpg",
+            "brand": [{
+                "id": 191,
+                "title": "机械革命 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }]
+            }, {
+                "id": 192,
+                "title": "机械革命 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }]
+            }, {
+                "id": 193,
+                "title": "机械革命 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }]
+            }, {
+                "id": 194,
+                "title": "机械革命 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }]
+            }, {
+                "id": 195,
+                "title": "机械革命 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }]
+            }]
+        }, {
+            "id": 20,
+            "title": "aierxuan",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/aierxuan.png",
+            "brand": [{
+                "id": 201,
+                "title": "aierxuan XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }]
+            }, {
+                "id": 202,
+                "title": "aierxuan XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }]
+            }, {
+                "id": 203,
+                "title": "aierxuan XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }]
+            }, {
+                "id": 204,
+                "title": "aierxuan XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }]
+            }, {
+                "id": 205,
+                "title": "aierxuan XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
+                }]
+            }]
+        }, {
+            "id": 21,
+            "title": "未来人类",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/wlrl.jpg",
+            "brand": [{
+                "id": 211,
+                "title": "未来人类 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }]
+            }, {
+                "id": 212,
+                "title": "未来人类 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }]
+            }, {
+                "id": 213,
+                "title": "未来人类 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
+                }]
+            }]
+        }, {
+            "id": 22,
+            "title": "摩天酷",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/mtk.jpg",
+            "brand": [{
+                "id": 221,
+                "title": "摩天酷 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }]
+            }, {
+                "id": 222,
+                "title": "摩天酷 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }]
+            }, {
+                "id": 223,
+                "title": "摩天酷 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }]
+            }, {
+                "id": 224,
+                "title": "摩天酷 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }]
+            }, {
+                "id": 225,
+                "title": "摩天酷 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }]
+            }, {
+                "id": 226,
+                "title": "摩天酷 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
+                }]
+            }]
+        }, {
+            "id": 23,
+            "title": "技嘉",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/jj.jpg",
+            "brand": [{
+                "id": 231,
+                "title": "技嘉 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }]
+            }, {
+                "id": 232,
+                "title": "技嘉 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }]
+            }, {
+                "id": 233,
+                "title": "技嘉 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }]
+            }, {
+                "id": 234,
+                "title": "技嘉 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }]
+            }]
+        }, {
+            "id": 24,
+            "title": "中柏",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/zb.jpg",
+            "brand": [{
+                "id": 241,
+                "title": "中柏 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }]
+            }, {
+                "id": 242,
+                "title": "中柏 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }]
+            }, {
+                "id": 243,
+                "title": "中柏 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }]
+            }, {
+                "id": 244,
+                "title": "中柏 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }]
+            }, {
+                "id": 245,
+                "title": "中柏 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }]
+            }]
+        }, {
+            "id": 25,
+            "title": "戴睿",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/dr.jpg",
+            "brand": [{
+                "id": 251,
+                "title": "戴睿 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }]
+            }, {
+                "id": 252,
+                "title": "戴睿 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }]
+            }, {
+                "id": 253,
+                "title": "戴睿 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }]
+            }, {
+                "id": 254,
+                "title": "戴睿 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
+                }]
+            }]
+        }, {
+            "id": 26,
+            "title": "雷蛇",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/leishe.jpg",
+            "brand": [{
+                "id": 261,
+                "title": "雷蛇 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }]
+            }, {
+                "id": 262,
+                "title": "雷蛇 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }]
+            }, {
+                "id": 263,
+                "title": "雷蛇 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }]
+            }, {
+                "id": 264,
+                "title": "雷蛇 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }]
+            }, {
+                "id": 265,
+                "title": "雷蛇 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }]
+            }, {
+                "id": 266,
+                "title": "雷蛇 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
+                }]
+            }]
+        }, {
+            "id": 27,
+            "title": "清华同方",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/qhtf.jpg",
+            "brand": [{
+                "id": 271,
+                "title": "清华同方 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }]
+            }, {
+                "id": 272,
+                "title": "清华同方 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
+                }]
+            }]
+        }, {
+            "id": 28,
+            "title": "海尔",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/haier.jpg",
+            "brand": [{
+                "id": 281,
+                "title": "海尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }]
+            }, {
+                "id": 282,
+                "title": "海尔 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }]
+            }]
+        }, {
+            "id": 29,
+            "title": "台电",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/td.jpg",
+            "brand": [{
+                "id": 291,
+                "title": "台电 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }]
+            }, {
+                "id": 292,
+                "title": "台电 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }]
+            }, {
+                "id": 293,
+                "title": "台电 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }]
+            }, {
+                "id": 294,
+                "title": "台电 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }]
+            }, {
+                "id": 295,
+                "title": "台电 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
+                }]
+            }]
+        }, {
+            "id": 30,
+            "title": "华为",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/hw.jpg",
+            "brand": [{
+                "id": 301,
+                "title": "华为 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }]
+            }, {
+                "id": 302,
+                "title": "华为 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }]
+            }, {
+                "id": 303,
+                "title": "华为 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }]
+            }, {
+                "id": 304,
+                "title": "华为 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }]
+            }, {
+                "id": 305,
+                "title": "华为 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }]
+            }, {
+                "id": 306,
+                "title": "华为 XX系列",
+                "lists": [{
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }]
+            }]
+        }]
+    },
+    "errorCode": 0,
+    "message": null,
+    "success": true
+}
