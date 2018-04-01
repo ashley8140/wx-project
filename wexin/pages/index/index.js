@@ -51,7 +51,6 @@ Page({
     },
     // 点击右侧字母
     onTapSelectLetter: function(e){
-        console.log("ontapselectletter")
         var letter = e.currentTarget.dataset.letter
         this.setData({
             activeId: letter
@@ -59,7 +58,6 @@ Page({
     },
     // 移动快速字母
     onTouchMoveLetter: function(e){
-        console.log("onTouchmoveletter")
         var touchY = e.changedTouches[0].clientY;
         var letterList = this.data.computerData.letter;
         var activeLetterIndex = Math.ceil((touchY - this.data.letterToTop) / this.data.singleHeight ) - 1;
@@ -70,11 +68,9 @@ Page({
         })
     },
     onTouchStart: function(){
-        console.log("ontouchstart")
         this.setData({enableScroll: false});
     },
     onTouchEnd: function(){
-        console.log("ontouchend")
         this.setData({
             enableScroll: true,
         });

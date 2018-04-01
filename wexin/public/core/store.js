@@ -8,7 +8,6 @@ var GetCacheClient = function(cacheConfig){
     var group = cacheConfig.group || 'ajax';
 
     var client = CacheGroupTemp[group];
-    console.log('client',client)
     if(client)  return client;
     return CacheGroupTemp[group] = new Cache(group, cacheConfig.maxSize, cacheConfig.expired);
 }
@@ -23,7 +22,6 @@ var Store = function(url, postData, config){
     if(configType !== 'object'){
         config = {};
     }
-
 
     if( method === 'GET' && config.cache ){
         cacheKey += Utils.objToParams(postData, true);
@@ -47,14 +45,12 @@ var Store = function(url, postData, config){
             method: method,
             success: function(data){
                 var json = data.data;
-                console.log('json=>',json)
                 if(json.success){
                     if(Utils.type(config.dataFilter) === 'function' ){
                         json = config.dataFilter(json);
                     }
                     //缓存
                     if(method === 'GET' && config.cache){
-                        console.log('cacheKey=>',cacheKey)
                         GetCacheClient(config.cache).set(cacheKey, json);
                     }
                     def.resolve(json);

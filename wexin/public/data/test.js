@@ -43,10 +43,10 @@ for (var i = 0; i < 30; i++) {
         var arr1 = '';
         for (var k = 0; k < n1; k++) {
             if (k == n1 - 1) {
-                arr1 += '{"level":"xx寸","price":"XXX","img":"http://192.168.2.100/public/images/computer/' + en[i] + '.jpg"}';
+                arr1 += '{"id":'+`${i+1}`+(j+1)+(k+1)+',"title":"'+ch[i] + ' XX-XXX-XXX"'+',"level":"xx寸","price":"XXX","img":"http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/' + en[i] + '.jpg"}';
 
             } else {
-                arr1 += '{"level":"xx寸","price":"XXX","img":"http://192.168.2.100/public/images/computer/' + en[i] + '.jpg"},';
+                arr1 += '{"id":'+`${i+1}`+(j+1)+(k+1)+',"title":"'+ch[i] + ' XX-XXX-XXX"'+',"level":"xx寸","price":"XXX","img":"http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/' + en[i] + '.jpg"},';
 
             }
 
@@ -60,10 +60,10 @@ for (var i = 0; i < 30; i++) {
         }
     }
     if (i == 29) {
-        tpl += '{"id":' + (i + 1) + ',"title":"' + ch[i] + '","logo":"http://192.168.2.100/public/images/logo/' + logo[i] + '.jpg",' + '"brand":[' + arr + ']' + '}';
+        tpl += '{"id":' + (i + 1) + ',"title":"' + ch[i] + '","logo":"http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/' + logo[i] + '.jpg",' + '"brand":[' + arr + ']' + '}';
 
     } else {
-        tpl += '{"id":' + (i + 1) + ',"title":"' + ch[i] + '","logo":"http://192.168.2.100/public/images/logo/' + logo[i] + '.jpg",' + '"brand":[' + arr + ']' + '},';
+        tpl += '{"id":' + (i + 1) + ',"title":"' + ch[i] + '","logo":"http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/' + logo[i] + '.jpg",' + '"brand":[' + arr + ']' + '},';
 
     }
 }

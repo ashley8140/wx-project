@@ -1,1 +1,6 @@
-{  "data":{    "pageTitle": "xxxxx",    "imageData": ["http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/1.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg","http://192.168.2.104/wx-project/weixin/public/images/2.jpg"]  },  "success": "true"}
+{
+  "data":{
+    "pageTitle": "computer image"
+  },
+  "success": "true"
+}

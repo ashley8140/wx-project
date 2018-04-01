@@ -10,7 +10,6 @@ var GetStorage = function(key){
 };
 
 var SetStorage = function(key,data){
-    console.log(key)
     try{
         wx.setStorage({key: key, data: data})
     }catch(e){}
@@ -114,7 +113,6 @@ Cache.prototype.get = function(key){
 };
 Cache.prototype.set = function(key, value, expired){
     var realKey = this.formatKey(key);
-    console.log('realKey=>', realKey)
     var delKey = this.init().keyStack.update(realKey);
 
     if( delKey ){

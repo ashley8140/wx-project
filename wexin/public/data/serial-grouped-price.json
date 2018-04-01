@@ -55,11 +55,11 @@
                 "computerGroupList": [{
                     "computerList": [{
                         "desc": "xxx",
-                        "guidePrice": "1000元",
+                        "guidePrice": "xxx元",
                         "hasPrice": true,
                         "id": "11",
                         "name": "xxxx",
-                        "price": "500",
+                        "price": "xxx元",
                         "saleStatus": "0",
                         "year": "2017"
                     }],

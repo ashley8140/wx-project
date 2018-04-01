@@ -4,22 +4,22 @@
         <text class="brand-name fl">{{brandInfo.title}}</text>
     </view>
     <view class="serial-container">
-        <view class="factory-item" wx:for="{{factoryList}}">
+        <view class="factory-item" wx:for="{{brandInfo.brand}}" wx:for-item="serial">
             <text class="factory-name f5 cl">
-                <text class="fl">{{item.title}}</text>
-                <text class="serial-count f3 fr">共<text class="c-red">{{item.lists.length}}</text>款电脑</text>
+                <text class="fl">{{serial.title}}</text>
+                <text class="serial-count f3 fr">共<text class="c-red">{{serial.lists.length}}</text>款电脑</text>
             </text>
             <view class="serial-list">
-                <view class="serial-item cl" wx:for="{{item.lists}}" wx:for-item="serial" data-id="{{item.id}}" data-img="serial.img" data-title="{{item.title}}" bindtap="tabBrand">
+                <view class="serial-item cl" wx:for="{{serial.lists}}" wx:for-item="computer"  data-computerId="{{computer.id}}" data-computerImg="{{computer.img}}" data-computerName="{{computer.title}}" bindtap="tabBrand">
                     <view class="serial-logo-v fl flex-middle">
-                        <image mode="aspectFit" class="serial-logo" src="{{serial.img}}">
+                        <image mode="aspectFit" class="serial-logo" src="{{computer.img}}">
                         </image>
                     </view>
 
-                    <view class="serial-info {{index == item.lists.length - 1 ? 'no-border' : ''}} fr">
-                        <text class="serial-name f6">{{serial.title}}</text>
-                        <text class="serial-price c-red f5">{{serial.price}}元</text>
-                        <text class="serial-level f4">{{serial.level}}</text>
+                    <view class="serial-info {{index == serial.lists.length - 1 ? 'no-border' : ''}} fr">
+                        <text class="serial-name f6">{{computer.title}}</text>
+                        <text class="serial-price c-red f5">{{computer.price}}元</text>
+                        <text class="serial-level f4">{{computer.level}}</text>
                     </view>
                 </view>
             </view>

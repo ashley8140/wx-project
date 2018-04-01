@@ -1,37 +1,18 @@
 <!--index.wxml-->
 <view class="container">
-    <view class='active-group-title group-title cl'>
-        <view class='fl'>{{topTitleList[activeGroupIndex][1]}}</view>
-
-        <view class='fr cl'>
-            <view class="biaopei fl">标配</view>
-            <view class="xuanpei fl">选配</view>
-            <view class="fl">-无</view>
-        </view>
-    </view>
-
     <scroll-view class="config-container" style="{{heightStyle}}" scroll-y="{{true}}" bindscroll="onScroll">
-
-        <view class="config-group" wx:for="{{configGroupsList}}">
-            <view class='group-title cl' wx:if="{{index > 0}}">
-                <view class='fl'>{{item.name}}</view>
-
-                <view class='fr'>
-                    <span class="biaopei">标配</span>
-                    <span class="xuanpei">选配</span>
-                    <span>-无</span>
+        <view>
+            <view wx:for="{{configList}}" class='cl'>
+                <view class='fl title'>{{item.title}}</view>
+                <view class='cl property'>
+                    <view wx:for="{{item.property}}" wx:for-item="prop" class="config_item">
+                        <span class="name">{{prop.title}}: </span>
+                        <span class="value">{{prop.value}}</span>
+                    </view>
                 </view>
-            </view>
-
-            <view class="config-item" wx:for="{{item.items}}">
-                <view class="item-name"><span>{{item.name}}</span></view>
-
-                <view class="item-value"><span>{{item.values[0].value}}</span></view>
             </view>
         </view>
 
     </scroll-view>
+
 </view>
-
-
-

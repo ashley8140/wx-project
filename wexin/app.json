@@ -3,9 +3,9 @@
     "pages/index/index",
     "pages/brand/index",
     "pages/serial/index",
-    "pages/order/index",
     "pages/config/index",
     "pages/image-view/index",
+    "pages/order/index",
     "about/news/index",
     "about/video/index",
     "about/news/newsdetail/index",
@@ -14,7 +14,7 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#000000",
+    "navigationBarBackgroundColor": "#ee4653",
     "navigationBarTitleText": "Computer",
     "navigationBarTextStyle": "white"
   },

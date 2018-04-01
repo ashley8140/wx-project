@@ -39,7 +39,7 @@
                         </view>
 
                         <view class="computer-right fr">
-                            <view class="computer-price" wx:if="{{item.hasPrice}}">{{item.price}}<span class="computer-price-t f3">元起</span></view>
+                            <view class="computer-price" wx:if="{{item.hasPrice}}">{{item.price}}<span class="computer-price-t f3">起</span></view>
                             <view class="computer-price" wx:else>{{item.price}}</view>
                             <span class="computer-guide-price" wx:if="{{item.saleStatus == 0}}">{{item.guidePrice}}</span>
                         </view>

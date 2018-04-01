@@ -16,14 +16,14 @@ var PageType = {
 };
 
 var GetData = function (id) {
-    return Store('http://192.168.2.100/public/data/summary.json', {
+    return Store('http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/data/summary.json', {
         id: id
     }).then(function (json, isSuccess) {
         return Deferred().resolve(json.data);
     })
 };
 var GetDearList = function (id, city) {
-    return Store('http://192.168.2.100/public/data/GetDearList.json', {
+    return Store('http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/data/GetDearList.json', {
         id: id,
         city: city
     }).then(function (json, isSuccess) {
@@ -53,13 +53,16 @@ Page({
 
         showSuccessToast: false,
 
-        selectDealStatusList: []
+        selectDealStatusList: [],
+        iscomputer: true
     },
 
     onLoad: function (searchObj) {
         var that = this;
         var type = searchObj.action || 'enquiry';
-        var id = searchObj.id;
+        var img = searchObj.computerImg;
+        var title = searchObj.computerName;
+        var id = searchObj.computerId;
 
         var setData = {};
 
@@ -94,7 +97,7 @@ Page({
 
         setData.user = App.localUser || {};
         if (!setData.user.city || setData.user.city != that.data.activeCity.code) {
-            Utils.extend(setData, setCity(setData.user.city || '110000'));
+            Utils.extend(setData, setCity(setData.user.city || '110500'));
         }
 
         wx.setNavigationBarTitle({
@@ -104,10 +107,13 @@ Page({
         Deferred.when(GetData(id), GetDearList(id, setData.user.city)).then(function (data) {
             var summaryData = data[0][0];
             var dealList = data[1][0];
+
             setData.dealList = dealList.dealList;
             setData.pageData = PageType[type];
             setData.searchObj = searchObj;
             setData.selectDealStatusList = [];
+            summaryData.serial.img = img;
+            summaryData.serial.title = title;
             setData.serial = summaryData.serial;
             setData.computer = summaryData.computer;
             Utils.each(dealList.dealList, function (item, i) {
@@ -132,7 +138,6 @@ Page({
         }
     },
     onSelectCityChange: function (e) {
-        console.log(e)
         var selectValue = e.detail.value;
         var setData = {};
 
@@ -160,7 +165,7 @@ Page({
             setData.dealList = data.dealList;
             setData.selectDealStatusList = [];
 
-            Utils.each(dealList, function (item, i) {
+            Utils.each(data.dealList, function (item, i) {
                 setData.selectDealStatusList.push(i > 2 ? 0 : 1);
             });
 
@@ -175,7 +180,7 @@ Page({
             activeCity: city
         });
         if (cityHasChange) {
-            this.renderDealList();
+            this.renderDearList();
         }
     },
     onInputConfirm: function (e) {
@@ -193,15 +198,15 @@ Page({
             }
             var userPattern = /[\u4E00-\u9FA5\uF900-\uFA2D]{2,5}/;
 
-            if (!userPattern.test(value)) {
-                errorTip = '别闹,这不是真名';
+            if (value && !userPattern.test(value)) {
+                errorTip = '这不是真名';
             }
         } else if (name === 'phone') {
             if (!value) {
                 errorTip = '请输入您的手机号';
             }
             var telPattern = telPattern = /^[1][3,4,5,7,8][0-9]{9}$/;
-            if (!telPattern.test(value)) {
+            if (value && !telPattern.test(value)) {
                 errorTip = '这不是手机号';
             }
         }
@@ -247,7 +252,7 @@ Page({
             dealerIds: dealerIdList.join(',')
         };
 
-        Store('xxxx', postData, 'post').then(function (storeData, isSuccess) {
+    /*     Store('http://192.168.2.105/public/data/saveUserInfo.json', postData, 'post').then(function (storeData, isSuccess) { */
             that.setData({
                 showSuccessToast: true
             });
@@ -263,7 +268,7 @@ Page({
             setTimeout(function () {
                 wx.navigateBack();
             }, 2000);
-        });
+        /* }); */
     },
     onTapDealerItem: function (e) {
         var index = parseInt(e.currentTarget.dataset.i);

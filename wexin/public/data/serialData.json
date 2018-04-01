@@ -8,14 +8,32 @@
                 "id": 11,
                 "title": "Apple XX系列",
                 "lists": [{
+                    "id": 111,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
                 }, {
+                    "id": 112,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
                 }, {
+                    "id": 113,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 114,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 115,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
@@ -24,18 +42,20 @@
                 "id": 12,
                 "title": "Apple XX系列",
                 "lists": [{
+                    "id": 121,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
                 }, {
+                    "id": 122,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
-                }, {
+                    "id": 123,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
@@ -44,14 +64,86 @@
                 "id": 13,
                 "title": "Apple XX系列",
                 "lists": [{
+                    "id": 131,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
                 }, {
+                    "id": 132,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
                 }, {
+                    "id": 133,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }]
+            }, {
+                "id": 14,
+                "title": "Apple XX系列",
+                "lists": [{
+                    "id": 141,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 142,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }]
+            }, {
+                "id": 15,
+                "title": "Apple XX系列",
+                "lists": [{
+                    "id": 151,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 152,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }]
+            }, {
+                "id": 16,
+                "title": "Apple XX系列",
+                "lists": [{
+                    "id": 161,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 162,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 163,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 164,
+                    "title": "Apple XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
+                }, {
+                    "id": 165,
+                    "title": "Apple XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/apple.jpg"
@@ -65,22 +157,32 @@
                 "id": 21,
                 "title": "戴尔 XX系列",
                 "lists": [{
+                    "id": 211,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 212,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 213,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 214,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 215,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
@@ -89,18 +191,32 @@
                 "id": 22,
                 "title": "戴尔 XX系列",
                 "lists": [{
+                    "id": 221,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 222,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 223,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 224,
+                    "title": "戴尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "id": 225,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
@@ -109,22 +225,32 @@
                 "id": 23,
                 "title": "戴尔 XX系列",
                 "lists": [{
+                    "id": 231,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 232,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 233,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 234,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 235,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
@@ -133,14 +259,20 @@
                 "id": 24,
                 "title": "戴尔 XX系列",
                 "lists": [{
+                    "id": 241,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 242,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 243,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
@@ -149,22 +281,14 @@
                 "id": 25,
                 "title": "戴尔 XX系列",
                 "lists": [{
+                    "id": 251,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
-                }, {
+                    "id": 252,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
@@ -173,14 +297,32 @@
                 "id": 26,
                 "title": "戴尔 XX系列",
                 "lists": [{
+                    "id": 261,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 262,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
                 }, {
+                    "id": 263,
+                    "title": "戴尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "id": 264,
+                    "title": "戴尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
+                }, {
+                    "id": 265,
+                    "title": "戴尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/daier.jpg"
@@ -194,10 +336,32 @@
                 "id": 31,
                 "title": "惠普 XX系列",
                 "lists": [{
+                    "id": 311,
+                    "title": "惠普 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
                 }, {
+                    "id": 312,
+                    "title": "惠普 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "id": 313,
+                    "title": "惠普 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "id": 314,
+                    "title": "惠普 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "id": 315,
+                    "title": "惠普 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
@@ -206,10 +370,32 @@
                 "id": 32,
                 "title": "惠普 XX系列",
                 "lists": [{
+                    "id": 321,
+                    "title": "惠普 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
                 }, {
+                    "id": 322,
+                    "title": "惠普 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "id": 323,
+                    "title": "惠普 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "id": 324,
+                    "title": "惠普 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
+                }, {
+                    "id": 325,
+                    "title": "惠普 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huipu.jpg"
@@ -223,18 +409,26 @@
                 "id": 41,
                 "title": "华硕 XX系列",
                 "lists": [{
+                    "id": 411,
+                    "title": "华硕 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
                 }, {
+                    "id": 412,
+                    "title": "华硕 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
                 }, {
+                    "id": 413,
+                    "title": "华硕 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
                 }, {
+                    "id": 414,
+                    "title": "华硕 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
@@ -243,58 +437,14 @@
                 "id": 42,
                 "title": "华硕 XX系列",
                 "lists": [{
+                    "id": 421,
+                    "title": "华硕 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }]
-            }, {
-                "id": 43,
-                "title": "华硕 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }]
-            }, {
-                "id": 44,
-                "title": "华硕 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
-                }, {
+                    "id": 422,
+                    "title": "华硕 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huashuo.jpg"
@@ -308,10 +458,32 @@
                 "id": 51,
                 "title": "联想 XX系列",
                 "lists": [{
+                    "id": 511,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
+                    "id": 512,
+                    "title": "联想 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "id": 513,
+                    "title": "联想 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "id": 514,
+                    "title": "联想 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "id": 515,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
@@ -320,14 +492,26 @@
                 "id": 52,
                 "title": "联想 XX系列",
                 "lists": [{
+                    "id": 521,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
+                    "id": 522,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
+                    "id": 523,
+                    "title": "联想 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "id": 524,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
@@ -336,22 +520,20 @@
                 "id": 53,
                 "title": "联想 XX系列",
                 "lists": [{
+                    "id": 531,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
+                    "id": 532,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
-                }, {
+                    "id": 533,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
@@ -360,14 +542,32 @@
                 "id": 54,
                 "title": "联想 XX系列",
                 "lists": [{
+                    "id": 541,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
+                    "id": 542,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
+                    "id": 543,
+                    "title": "联想 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "id": 544,
+                    "title": "联想 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
+                }, {
+                    "id": 545,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
@@ -376,14 +576,14 @@
                 "id": 55,
                 "title": "联想 XX系列",
                 "lists": [{
+                    "id": 551,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
-                }, {
+                    "id": 552,
+                    "title": "联想 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/lianxiang.jpg"
@@ -397,14 +597,20 @@
                 "id": 61,
                 "title": "三星 XX系列",
                 "lists": [{
+                    "id": 611,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
                 }, {
+                    "id": 612,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
                 }, {
+                    "id": 613,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
@@ -413,18 +619,26 @@
                 "id": 62,
                 "title": "三星 XX系列",
                 "lists": [{
+                    "id": 621,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
                 }, {
+                    "id": 622,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
                 }, {
+                    "id": 623,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
                 }, {
+                    "id": 624,
+                    "title": "三星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/sanxing.jpg"
@@ -438,18 +652,14 @@
                 "id": 71,
                 "title": "thinkpad XX系列",
                 "lists": [{
+                    "id": 711,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
+                    "id": 712,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
@@ -458,22 +668,32 @@
                 "id": 72,
                 "title": "thinkpad XX系列",
                 "lists": [{
+                    "id": 721,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
                 }, {
+                    "id": 722,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
                 }, {
+                    "id": 723,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
                 }, {
+                    "id": 724,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
                 }, {
+                    "id": 725,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
@@ -482,42 +702,14 @@
                 "id": 73,
                 "title": "thinkpad XX系列",
                 "lists": [{
+                    "id": 731,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }]
-            }, {
-                "id": 74,
-                "title": "thinkpad XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
-                }, {
+                    "id": 732,
+                    "title": "thinkpad XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/thinkpad.jpg"
@@ -531,14 +723,14 @@
                 "id": 81,
                 "title": "微软 XX系列",
                 "lists": [{
+                    "id": 811,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
-                }, {
+                    "id": 812,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
@@ -547,22 +739,32 @@
                 "id": 82,
                 "title": "微软 XX系列",
                 "lists": [{
+                    "id": 821,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
+                    "id": 822,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
+                    "id": 823,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
+                    "id": 824,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
+                    "id": 825,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
@@ -571,10 +773,26 @@
                 "id": 83,
                 "title": "微软 XX系列",
                 "lists": [{
+                    "id": 831,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
+                    "id": 832,
+                    "title": "微软 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "id": 833,
+                    "title": "微软 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
+                }, {
+                    "id": 834,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
@@ -583,42 +801,32 @@
                 "id": 84,
                 "title": "微软 XX系列",
                 "lists": [{
+                    "id": 841,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
+                    "id": 842,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
-                }]
-            }, {
-                "id": 85,
-                "title": "微软 XX系列",
-                "lists": [{
+                    "id": 843,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
-                }]
-            }, {
-                "id": 86,
-                "title": "微软 XX系列",
-                "lists": [{
+                    "id": 844,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
-                }, {
+                    "id": 845,
+                    "title": "微软 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weiruan.jpg"
@@ -632,18 +840,20 @@
                 "id": 91,
                 "title": "小米 XX系列",
                 "lists": [{
+                    "id": 911,
+                    "title": "小米 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
                 }, {
+                    "id": 912,
+                    "title": "小米 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
+                    "id": 913,
+                    "title": "小米 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
@@ -652,90 +862,20 @@
                 "id": 92,
                 "title": "小米 XX系列",
                 "lists": [{
+                    "id": 921,
+                    "title": "小米 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }]
-            }, {
-                "id": 93,
-                "title": "小米 XX系列",
-                "lists": [{
+                    "id": 922,
+                    "title": "小米 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }]
-            }, {
-                "id": 94,
-                "title": "小米 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }]
-            }, {
-                "id": 95,
-                "title": "小米 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }]
-            }, {
-                "id": 96,
-                "title": "小米 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
-                }, {
+                    "id": 923,
+                    "title": "小米 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xiaomi.jpg"
@@ -749,18 +889,14 @@
                 "id": 101,
                 "title": "神舟 XX系列",
                 "lists": [{
+                    "id": 1011,
+                    "title": "神舟 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
-                }, {
+                    "id": 1012,
+                    "title": "神舟 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
@@ -769,18 +905,42 @@
                 "id": 102,
                 "title": "神舟 XX系列",
                 "lists": [{
+                    "id": 1021,
+                    "title": "神舟 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
                 }, {
+                    "id": 1022,
+                    "title": "神舟 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
                 }, {
+                    "id": 1023,
+                    "title": "神舟 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
                 }, {
+                    "id": 1024,
+                    "title": "神舟 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }]
+            }, {
+                "id": 103,
+                "title": "神舟 XX系列",
+                "lists": [{
+                    "id": 1031,
+                    "title": "神舟 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
+                }, {
+                    "id": 1032,
+                    "title": "神舟 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/shenzhou.jpg"
@@ -794,22 +954,26 @@
                 "id": 111,
                 "title": "炫龙 XX系列",
                 "lists": [{
+                    "id": 1111,
+                    "title": "炫龙 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
                 }, {
+                    "id": 1112,
+                    "title": "炫龙 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
                 }, {
+                    "id": 1113,
+                    "title": "炫龙 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
+                    "id": 1114,
+                    "title": "炫龙 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
@@ -818,62 +982,14 @@
                 "id": 112,
                 "title": "炫龙 XX系列",
                 "lists": [{
+                    "id": 1121,
+                    "title": "炫龙 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }]
-            }, {
-                "id": 113,
-                "title": "炫龙 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }]
-            }, {
-                "id": 114,
-                "title": "炫龙 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }]
-            }, {
-                "id": 115,
-                "title": "炫龙 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
-                }, {
+                    "id": 1122,
+                    "title": "炫龙 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/xuanlong.jpg"
@@ -887,14 +1003,20 @@
                 "id": 121,
                 "title": "麦本本 XX系列",
                 "lists": [{
+                    "id": 1211,
+                    "title": "麦本本 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
                 }, {
+                    "id": 1212,
+                    "title": "麦本本 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
                 }, {
+                    "id": 1213,
+                    "title": "麦本本 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
@@ -903,74 +1025,20 @@
                 "id": 122,
                 "title": "麦本本 XX系列",
                 "lists": [{
+                    "id": 1221,
+                    "title": "麦本本 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
                 }, {
+                    "id": 1222,
+                    "title": "麦本本 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }]
-            }, {
-                "id": 123,
-                "title": "麦本本 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }]
-            }, {
-                "id": 124,
-                "title": "麦本本 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }]
-            }, {
-                "id": 125,
-                "title": "麦本本 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
-                }, {
+                    "id": 1223,
+                    "title": "麦本本 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/maibenben.jpg"
@@ -984,18 +1052,26 @@
                 "id": 131,
                 "title": "雷神 XX系列",
                 "lists": [{
+                    "id": 1311,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1312,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1313,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1314,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
@@ -1004,18 +1080,14 @@
                 "id": 132,
                 "title": "雷神 XX系列",
                 "lists": [{
+                    "id": 1321,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
-                }, {
+                    "id": 1322,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
@@ -1024,22 +1096,26 @@
                 "id": 133,
                 "title": "雷神 XX系列",
                 "lists": [{
+                    "id": 1331,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1332,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1333,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
-                }, {
+                    "id": 1334,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
@@ -1048,18 +1124,60 @@
                 "id": 134,
                 "title": "雷神 XX系列",
                 "lists": [{
+                    "id": 1341,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1342,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1343,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
                 }, {
+                    "id": 1344,
+                    "title": "雷神 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "id": 1345,
+                    "title": "雷神 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }]
+            }, {
+                "id": 135,
+                "title": "雷神 XX系列",
+                "lists": [{
+                    "id": 1351,
+                    "title": "雷神 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "id": 1352,
+                    "title": "雷神 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "id": 1353,
+                    "title": "雷神 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
+                }, {
+                    "id": 1354,
+                    "title": "雷神 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishen.jpg"
@@ -1073,18 +1191,14 @@
                 "id": 141,
                 "title": "机械师 XX系列",
                 "lists": [{
+                    "id": 1411,
+                    "title": "机械师 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
-                }, {
+                    "id": 1412,
+                    "title": "机械师 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
@@ -1093,14 +1207,48 @@
                 "id": 142,
                 "title": "机械师 XX系列",
                 "lists": [{
+                    "id": 1421,
+                    "title": "机械师 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
                 }, {
+                    "id": 1422,
+                    "title": "机械师 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
                 }, {
+                    "id": 1423,
+                    "title": "机械师 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "id": 1424,
+                    "title": "机械师 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "id": 1425,
+                    "title": "机械师 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }]
+            }, {
+                "id": 143,
+                "title": "机械师 XX系列",
+                "lists": [{
+                    "id": 1431,
+                    "title": "机械师 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
+                }, {
+                    "id": 1432,
+                    "title": "机械师 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixieshi.jpg"
@@ -1114,10 +1262,26 @@
                 "id": 151,
                 "title": "微星 XX系列",
                 "lists": [{
+                    "id": 1511,
+                    "title": "微星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
                 }, {
+                    "id": 1512,
+                    "title": "微星 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "id": 1513,
+                    "title": "微星 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
+                }, {
+                    "id": 1514,
+                    "title": "微星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
@@ -1126,94 +1290,26 @@
                 "id": 152,
                 "title": "微星 XX系列",
                 "lists": [{
+                    "id": 1521,
+                    "title": "微星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
                 }, {
+                    "id": 1522,
+                    "title": "微星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
                 }, {
+                    "id": 1523,
+                    "title": "微星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }]
-            }, {
-                "id": 153,
-                "title": "微星 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }]
-            }, {
-                "id": 154,
-                "title": "微星 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }]
-            }, {
-                "id": 155,
-                "title": "微星 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }]
-            }, {
-                "id": 156,
-                "title": "微星 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
-                }, {
+                    "id": 1524,
+                    "title": "微星 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weixing.jpg"
@@ -1227,14 +1323,32 @@
                 "id": 161,
                 "title": "外星人 XX系列",
                 "lists": [{
+                    "id": 1611,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1612,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1613,
+                    "title": "外星人 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "id": 1614,
+                    "title": "外星人 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "id": 1615,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
@@ -1243,22 +1357,14 @@
                 "id": 162,
                 "title": "外星人 XX系列",
                 "lists": [{
+                    "id": 1621,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
-                }, {
+                    "id": 1622,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
@@ -1267,18 +1373,26 @@
                 "id": 163,
                 "title": "外星人 XX系列",
                 "lists": [{
+                    "id": 1631,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1632,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1633,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1634,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
@@ -1287,10 +1401,32 @@
                 "id": 164,
                 "title": "外星人 XX系列",
                 "lists": [{
+                    "id": 1641,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1642,
+                    "title": "外星人 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "id": 1643,
+                    "title": "外星人 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "id": 1644,
+                    "title": "外星人 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "id": 1645,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
@@ -1299,14 +1435,20 @@
                 "id": 165,
                 "title": "外星人 XX系列",
                 "lists": [{
+                    "id": 1651,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1652,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1653,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
@@ -1315,10 +1457,20 @@
                 "id": 166,
                 "title": "外星人 XX系列",
                 "lists": [{
+                    "id": 1661,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
                 }, {
+                    "id": 1662,
+                    "title": "外星人 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
+                }, {
+                    "id": 1663,
+                    "title": "外星人 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/waixingren.jpg"
@@ -1332,14 +1484,32 @@
                 "id": 171,
                 "title": "火影 XX系列",
                 "lists": [{
+                    "id": 1711,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1712,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1713,
+                    "title": "火影 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "id": 1714,
+                    "title": "火影 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
+                }, {
+                    "id": 1715,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
@@ -1348,14 +1518,20 @@
                 "id": 172,
                 "title": "火影 XX系列",
                 "lists": [{
+                    "id": 1721,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1722,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1723,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
@@ -1364,18 +1540,20 @@
                 "id": 173,
                 "title": "火影 XX系列",
                 "lists": [{
+                    "id": 1731,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1732,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }, {
+                    "id": 1733,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
@@ -1384,22 +1562,20 @@
                 "id": 174,
                 "title": "火影 XX系列",
                 "lists": [{
+                    "id": 1741,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1742,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }, {
+                    "id": 1743,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
@@ -1408,38 +1584,26 @@
                 "id": 175,
                 "title": "火影 XX系列",
                 "lists": [{
+                    "id": 1751,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
+                    "id": 1752,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }]
-            }, {
-                "id": 176,
-                "title": "火影 XX系列",
-                "lists": [{
+                    "id": 1753,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
-                }, {
+                    "id": 1754,
+                    "title": "火影 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huoying.jpg"
@@ -1453,10 +1617,20 @@
                 "id": 181,
                 "title": "宏基 XX系列",
                 "lists": [{
+                    "id": 1811,
+                    "title": "宏基 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
                 }, {
+                    "id": 1812,
+                    "title": "宏基 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }, {
+                    "id": 1813,
+                    "title": "宏基 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
@@ -1465,22 +1639,36 @@
                 "id": 182,
                 "title": "宏基 XX系列",
                 "lists": [{
+                    "id": 1821,
+                    "title": "宏基 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
                 }, {
+                    "id": 1822,
+                    "title": "宏基 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
                 }, {
+                    "id": 1823,
+                    "title": "宏基 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
+                }]
+            }, {
+                "id": 183,
+                "title": "宏基 XX系列",
+                "lists": [{
+                    "id": 1831,
+                    "title": "宏基 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
-                }, {
+                    "id": 1832,
+                    "title": "宏基 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/hongji.jpg"
@@ -1494,10 +1682,32 @@
                 "id": 191,
                 "title": "机械革命 XX系列",
                 "lists": [{
+                    "id": 1911,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1912,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "id": 1913,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "id": 1914,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "id": 1915,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
@@ -1506,18 +1716,20 @@
                 "id": 192,
                 "title": "机械革命 XX系列",
                 "lists": [{
+                    "id": 1921,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1922,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
-                }, {
+                    "id": 1923,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
@@ -1526,18 +1738,32 @@
                 "id": 193,
                 "title": "机械革命 XX系列",
                 "lists": [{
+                    "id": 1931,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1932,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1933,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1934,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "id": 1935,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
@@ -1546,10 +1772,20 @@
                 "id": 194,
                 "title": "机械革命 XX系列",
                 "lists": [{
+                    "id": 1941,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1942,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "id": 1943,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
@@ -1558,14 +1794,36 @@
                 "id": 195,
                 "title": "机械革命 XX系列",
                 "lists": [{
+                    "id": 1951,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1952,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }]
+            }, {
+                "id": 196,
+                "title": "机械革命 XX系列",
+                "lists": [{
+                    "id": 1961,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
                 }, {
+                    "id": 1962,
+                    "title": "机械革命 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
+                }, {
+                    "id": 1963,
+                    "title": "机械革命 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jixiegeming.jpg"
@@ -1574,27 +1832,31 @@
         }, {
             "id": 20,
             "title": "aierxuan",
-            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/aierxuan.png",
+            "logo": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/logo/aierxuan.jpg",
             "brand": [{
                 "id": 201,
                 "title": "aierxuan XX系列",
                 "lists": [{
+                    "id": 2011,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
                 }, {
+                    "id": 2012,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
                 }, {
+                    "id": 2013,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
+                    "id": 2014,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
@@ -1603,22 +1865,14 @@
                 "id": 202,
                 "title": "aierxuan XX系列",
                 "lists": [{
+                    "id": 2021,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
+                    "id": 2022,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
@@ -1627,42 +1881,14 @@
                 "id": 203,
                 "title": "aierxuan XX系列",
                 "lists": [{
+                    "id": 2031,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }]
-            }, {
-                "id": 204,
-                "title": "aierxuan XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }]
-            }, {
-                "id": 205,
-                "title": "aierxuan XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
-                }, {
+                    "id": 2032,
+                    "title": "aierxuan XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/aierxuan.jpg"
@@ -1676,22 +1902,20 @@
                 "id": 211,
                 "title": "未来人类 XX系列",
                 "lists": [{
+                    "id": 2111,
+                    "title": "未来人类 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
                 }, {
+                    "id": 2112,
+                    "title": "未来人类 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }, {
+                    "id": 2113,
+                    "title": "未来人类 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
@@ -1700,34 +1924,14 @@
                 "id": 212,
                 "title": "未来人类 XX系列",
                 "lists": [{
+                    "id": 2121,
+                    "title": "未来人类 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }]
-            }, {
-                "id": 213,
-                "title": "未来人类 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
-                }, {
+                    "id": 2122,
+                    "title": "未来人类 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/weilairenlei.jpg"
@@ -1741,18 +1945,14 @@
                 "id": 221,
                 "title": "摩天酷 XX系列",
                 "lists": [{
+                    "id": 2211,
+                    "title": "摩天酷 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
+                    "id": 2212,
+                    "title": "摩天酷 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
@@ -1761,86 +1961,26 @@
                 "id": 222,
                 "title": "摩天酷 XX系列",
                 "lists": [{
+                    "id": 2221,
+                    "title": "摩天酷 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
                 }, {
+                    "id": 2222,
+                    "title": "摩天酷 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
                 }, {
+                    "id": 2223,
+                    "title": "摩天酷 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }]
-            }, {
-                "id": 223,
-                "title": "摩天酷 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }]
-            }, {
-                "id": 224,
-                "title": "摩天酷 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }]
-            }, {
-                "id": 225,
-                "title": "摩天酷 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }]
-            }, {
-                "id": 226,
-                "title": "摩天酷 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
-                }, {
+                    "id": 2224,
+                    "title": "摩天酷 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/motianku.jpg"
@@ -1854,10 +1994,14 @@
                 "id": 231,
                 "title": "技嘉 XX系列",
                 "lists": [{
+                    "id": 2311,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
                 }, {
+                    "id": 2312,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
@@ -1866,18 +2010,32 @@
                 "id": 232,
                 "title": "技嘉 XX系列",
                 "lists": [{
+                    "id": 2321,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
                 }, {
+                    "id": 2322,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
                 }, {
+                    "id": 2323,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
                 }, {
+                    "id": 2324,
+                    "title": "技嘉 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "id": 2325,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
@@ -1886,22 +2044,32 @@
                 "id": 233,
                 "title": "技嘉 XX系列",
                 "lists": [{
+                    "id": 2331,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
-                }]
-            }, {
-                "id": 234,
-                "title": "技嘉 XX系列",
-                "lists": [{
+                    "id": 2332,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
                 }, {
+                    "id": 2333,
+                    "title": "技嘉 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "id": 2334,
+                    "title": "技嘉 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
+                }, {
+                    "id": 2335,
+                    "title": "技嘉 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/jijia.jpg"
@@ -1915,14 +2083,26 @@
                 "id": 241,
                 "title": "中柏 XX系列",
                 "lists": [{
+                    "id": 2411,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
                 }, {
+                    "id": 2412,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
                 }, {
+                    "id": 2413,
+                    "title": "中柏 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
+                }, {
+                    "id": 2414,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
@@ -1931,22 +2111,14 @@
                 "id": 242,
                 "title": "中柏 XX系列",
                 "lists": [{
+                    "id": 2421,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
+                    "id": 2422,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
@@ -1955,50 +2127,14 @@
                 "id": 243,
                 "title": "中柏 XX系列",
                 "lists": [{
+                    "id": 2431,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }]
-            }, {
-                "id": 244,
-                "title": "中柏 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }]
-            }, {
-                "id": 245,
-                "title": "中柏 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
-                }, {
+                    "id": 2432,
+                    "title": "中柏 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/zhongbai.jpg"
@@ -2012,10 +2148,14 @@
                 "id": 251,
                 "title": "戴睿 XX系列",
                 "lists": [{
+                    "id": 2511,
+                    "title": "戴睿 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
                 }, {
+                    "id": 2512,
+                    "title": "戴睿 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
@@ -2024,62 +2164,26 @@
                 "id": 252,
                 "title": "戴睿 XX系列",
                 "lists": [{
+                    "id": 2521,
+                    "title": "戴睿 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
                 }, {
+                    "id": 2522,
+                    "title": "戴睿 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
                 }, {
+                    "id": 2523,
+                    "title": "戴睿 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }]
-            }, {
-                "id": 253,
-                "title": "戴睿 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }]
-            }, {
-                "id": 254,
-                "title": "戴睿 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
-                }, {
+                    "id": 2524,
+                    "title": "戴睿 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/dairui.jpg"
@@ -2093,22 +2197,32 @@
                 "id": 261,
                 "title": "雷蛇 XX系列",
                 "lists": [{
+                    "id": 2611,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
                 }, {
+                    "id": 2612,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
                 }, {
+                    "id": 2613,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
                 }, {
+                    "id": 2614,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
                 }, {
+                    "id": 2615,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
@@ -2117,82 +2231,20 @@
                 "id": 262,
                 "title": "雷蛇 XX系列",
                 "lists": [{
+                    "id": 2621,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }]
-            }, {
-                "id": 263,
-                "title": "雷蛇 XX系列",
-                "lists": [{
+                    "id": 2622,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }]
-            }, {
-                "id": 264,
-                "title": "雷蛇 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }]
-            }, {
-                "id": 265,
-                "title": "雷蛇 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }]
-            }, {
-                "id": 266,
-                "title": "雷蛇 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
-                }, {
+                    "id": 2623,
+                    "title": "雷蛇 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/leishe.jpg"
@@ -2206,22 +2258,32 @@
                 "id": 271,
                 "title": "清华同方 XX系列",
                 "lists": [{
+                    "id": 2711,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
                 }, {
+                    "id": 2712,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
                 }, {
+                    "id": 2713,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
                 }, {
+                    "id": 2714,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
                 }, {
+                    "id": 2715,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
@@ -2230,22 +2292,14 @@
                 "id": 272,
                 "title": "清华同方 XX系列",
                 "lists": [{
+                    "id": 2721,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
-                }, {
+                    "id": 2722,
+                    "title": "清华同方 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/qinghuatongfang.jpg"
@@ -2259,10 +2313,32 @@
                 "id": 281,
                 "title": "海尔 XX系列",
                 "lists": [{
+                    "id": 2811,
+                    "title": "海尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
                 }, {
+                    "id": 2812,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2813,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2814,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2815,
+                    "title": "海尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
@@ -2271,10 +2347,48 @@
                 "id": 282,
                 "title": "海尔 XX系列",
                 "lists": [{
+                    "id": 2821,
+                    "title": "海尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
                 }, {
+                    "id": 2822,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2823,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }]
+            }, {
+                "id": 283,
+                "title": "海尔 XX系列",
+                "lists": [{
+                    "id": 2831,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2832,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2833,
+                    "title": "海尔 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
+                }, {
+                    "id": 2834,
+                    "title": "海尔 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/haier.jpg"
@@ -2288,22 +2402,14 @@
                 "id": 291,
                 "title": "台电 XX系列",
                 "lists": [{
+                    "id": 2911,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
-                }, {
+                    "id": 2912,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
@@ -2312,22 +2418,32 @@
                 "id": 292,
                 "title": "台电 XX系列",
                 "lists": [{
+                    "id": 2921,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2922,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2923,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2924,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2925,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
@@ -2336,22 +2452,32 @@
                 "id": 293,
                 "title": "台电 XX系列",
                 "lists": [{
+                    "id": 2931,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2932,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2933,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2934,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2935,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
@@ -2360,38 +2486,32 @@
                 "id": 294,
                 "title": "台电 XX系列",
                 "lists": [{
+                    "id": 2941,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2942,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
-                }]
-            }, {
-                "id": 295,
-                "title": "台电 XX系列",
-                "lists": [{
+                    "id": 2943,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
+                    "id": 2944,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
-                }, {
+                    "id": 2945,
+                    "title": "台电 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/taidian.jpg"
@@ -2405,22 +2525,20 @@
                 "id": 301,
                 "title": "华为 XX系列",
                 "lists": [{
+                    "id": 3011,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3012,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
-                }, {
+                    "id": 3013,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
@@ -2429,14 +2547,26 @@
                 "id": 302,
                 "title": "华为 XX系列",
                 "lists": [{
+                    "id": 3021,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3022,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3023,
+                    "title": "华为 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "id": 3024,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
@@ -2445,10 +2575,14 @@
                 "id": 303,
                 "title": "华为 XX系列",
                 "lists": [{
+                    "id": 3031,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3032,
+                    "title": "华为XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
@@ -2457,10 +2591,20 @@
                 "id": 304,
                 "title": "华为 XX系列",
                 "lists": [{
+                    "id": 3041,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3042,
+                    "title": "华为 XX-XXX-XXX",
+                    "level": "xx寸",
+                    "price": "XXX",
+                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
+                }, {
+                    "id": 3043,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
@@ -2469,38 +2613,32 @@
                 "id": 305,
                 "title": "华为 XX系列",
                 "lists": [{
+                    "id": 3051,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3052,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3053,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
+                    "id": 3054,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
                 }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
-                }]
-            }, {
-                "id": 306,
-                "title": "华为 XX系列",
-                "lists": [{
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
-                }, {
-                    "level": "xx寸",
-                    "price": "XXX",
-                    "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"
-                }, {
+                    "id": 3055,
+                    "title": "华为 XX-XXX-XXX",
                     "level": "xx寸",
                     "price": "XXX",
                     "img": "http://p6e5hhlwb.bkt.clouddn.com/wx_productModel/images/computer/huawei.jpg"

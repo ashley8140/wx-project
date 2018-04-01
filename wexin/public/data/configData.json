@@ -1,0 +1,110 @@
+{
+    "data":{
+        "lists": [{
+            "title": "其他属性",
+            "property": [{
+                "title": "是否PC平板合一",
+                "value": "否"
+            },{
+                "title": "适用场景",
+                "value": "轻薄便携 学生 商务办公 高清游戏 尊贵旗舰 家庭娱乐"
+            },{
+                "title": "售后服务",
+                "value": "全国联保"
+            },{
+                "title": "通信技术类型",
+                "value": "无线网卡 蓝牙"
+            },{
+                "title": "是否超极本",
+                "value": "否"
+            }]
+        },{
+            "title": "存储",
+            "property": [{
+                "title": "显存容量",
+                "value": "xxGB"
+            },{
+                "title": "机械硬盘容量",
+                "value": "xxGB"
+            },{
+                "title": "固态硬盘",
+                "value": "xxGB"
+            },{
+                "title": "内存容量",
+                "value": "xxGB"
+            }]
+        },{
+            "title": "基本参数",
+            "property": [{
+                "title": "厚度",
+                "value": "xxmm"
+            },{
+                "title": "品牌",
+                "value": "xx"
+            },{
+                "title": "系列",
+                "value": "xx"
+            },{
+                "title": "CPU",
+                "value": "xx"
+            },{
+                "title": "显卡类型",
+                "value": "xx"
+            },{
+                "title": "光驱类型",
+                "value": "xx"
+            },{
+                "title": "重量",
+                "value": "xxKG"
+            },{
+                "title": "颜色",
+                "value": "xx"
+            },{
+                "title": "操作系统",
+                "value": "xx"
+            },{
+                "title": "输入设备",
+                "value": "xx"
+            }]
+        },{
+            "title": "显示",
+            "property": [{
+                "title": "屏幕类型",
+                "value": "xx"
+            },{
+                "title": "屏幕尺寸",
+                "value": "xx英寸"
+            },{
+                "title": "分辨率",
+                "value": "xx*xx"
+            },{
+                "title": "是否触摸屏",
+                "value": "xx"
+            }]
+        },{
+            "title": "包装清单",
+            "property": [{
+                "title": "主机",
+                "value": "1件"
+            },{
+                "title": "电脑配件",
+                "value": "1件"
+            },{
+                "title": "说明书",
+                "value": "1件"
+            },{
+                "title": "驱动光盘",
+                "value": "1件"
+            },{
+                "title": "电源线",
+                "value": "1件"
+            },{
+                "title": "会员卡",
+                "value": "1件"
+            }]
+        }]
+    } ,
+    "errorCode": 0,
+    "message": null,
+    "success": true
+}
