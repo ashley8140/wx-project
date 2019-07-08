@@ -49,5 +49,6 @@
         "selectedIconPath": "public/images/icon/icon_home_pressed.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

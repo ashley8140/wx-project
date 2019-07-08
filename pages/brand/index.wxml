@@ -4,18 +4,20 @@
         <text class="brand-name fl">{{brandInfo.title}}</text>
     </view>
     <view class="serial-container">
-        <view class="factory-item" wx:for="{{brandInfo.brand}}" wx:for-item="serial">
-            <text class="factory-name f5 cl">
+        <view class="factory-item" wx:for="{{brandInfo.brand}}" wx:key="letter" wx:for-item="serial">
+            <view class="factory-name f5 cl">
                 <text class="fl">{{serial.title}}</text>
-                <text class="serial-count f3 fr">共<text class="c-red">{{serial.lists.length}}</text>款电脑</text>
-            </text>
+                <view class="serial-count f3 fr">
+                    共
+                    <text class="c-red">{{serial.lists.length}}</text>
+                    款电脑
+                </view>
+            </view>
             <view class="serial-list">
-                <view class="serial-item cl" wx:for="{{serial.lists}}" wx:for-item="computer"  data-computerId="{{computer.id}}" data-computerImg="{{computer.img}}" data-computerName="{{computer.title}}" bindtap="tabBrand">
+                <view class="serial-item cl" wx:for="{{serial.lists}}" wx:key="id" wx:for-item="computer" data-computerId="{{computer.id}}" data-computerImg="{{computer.img}}" data-computerName="{{computer.title}}" bindtap="tabBrand">
                     <view class="serial-logo-v fl flex-middle">
-                        <image mode="aspectFit" class="serial-logo" src="{{computer.img}}">
-                        </image>
+                        <image mode="aspectFit" class="serial-logo" src="{{computer.img}}"></image>
                     </view>
-
                     <view class="serial-info {{index == serial.lists.length - 1 ? 'no-border' : ''}} fr">
                         <text class="serial-name f6">{{computer.title}}</text>
                         <text class="serial-price c-red f5">{{computer.price}}元</text>
